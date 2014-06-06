@@ -1,0 +1,11 @@
+{
+    "name": "robot-client-for-chat",
+    "version": "0.0.1",
+    "description": "A distributed load test framework",
+    "author": "<zgli@corp.netease.com>",
+		"dependencies": {
+			"socket.io-client": "0.9.6"
+      , "socket.io": "0.9.6"
+      , "underscore": "1.0.0"
+		}
+}

@@ -1,0 +1,14 @@
+.project
+*.log
+*/node-log.log
+logs/*.log
+!.gitignore
+.project
+.settings/
+**/*.svn
+*.svn
+*.sublime-project
+*.sublime-workspace
+*.swp
+.DS_Store
+.idea
